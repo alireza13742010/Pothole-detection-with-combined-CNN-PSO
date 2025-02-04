@@ -1,5 +1,7 @@
 # Pothole-detection-with-combined-CNN-PSO
-The work is done for detecting potholes with the combination of CNN algoritms and convolutional layers.
+This repository provide a compelet process of implementing the combination of CNN with PSO for the pothole detection. 
+To gain access to the evaluated dataset please contact us: alireza.tavakol@ut.ac.ir
+
 
 # -Abstract
 <p align="justify"> Poor road maintenance leads to potholes on the road. Potholes are responsi-
