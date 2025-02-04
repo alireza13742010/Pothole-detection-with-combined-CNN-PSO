@@ -25,8 +25,10 @@ time of the proposed method for pothole detection is 0.02 seconds. The
 proposed method can be utilized for real-time pothole detection.</p>
 
 # -Evaluation Results 
+# AUROC Results
 ![AUROC+RF](https://github.com/user-attachments/assets/441ba272-12f4-47f2-8bc8-c5f4a4c7df63)
 ![AUROC+XGB](https://github.com/user-attachments/assets/b812b209-e06d-4580-8714-5ab6dfcaa8cc)
+# Confusion Matrix Results
 ![RF+PSO (2)](https://github.com/user-attachments/assets/8871f515-c1cb-4cca-a755-5434e90eff97)
 ![XGB+SO](https://github.com/user-attachments/assets/6296f3fe-23f9-4c62-a98b-f48d2a21e82f)
 
